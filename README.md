@@ -1,4 +1,4 @@
-# Roamia# 🧭 Roamia Lanka – Smart Tourism Platform
+# Roamia🧭 – Smart Tourism Platform
 
 ## 📌 Project Overview
 **Roamia Lanka** is a web-based smart tourism system developed to enhance the travel experience in Sri Lanka. It connects tourists with verified local services such as hotels, restaurants, and travel providers using a unified platform.
